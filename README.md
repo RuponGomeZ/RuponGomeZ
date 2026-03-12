@@ -31,5 +31,9 @@ email: rupongomez@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupongomez&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupongomez&show_icons=true&count_private=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupongomez&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupongomez&theme=radical)
 
