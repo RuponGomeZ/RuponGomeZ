@@ -26,14 +26,23 @@
 
 ## 📫 Contact Me
 
-WhatsApp: https://wa.me/8801998020978  
-email: rupongomez@gmail.com
+💬 WhatsApp: [Chat with me](https://wa.me/8801998020978)  
+📧 Email: [rupongomez@gmail.com](mailto:rupongomez@gmail.com)  
+🐙 GitHub: [rupongomez](https://github.com/rupongomez)  
+🔗 LinkedIn: [rupongomez](https://www.linkedin.com/in/rupongomez)  
+🐦 Twitter: [@rupongomez](https://twitter.com/rupongomez)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupongomez&show_icons=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupongomez&show_icons=true&count_private=true&theme=radical" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupongomez&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupongomez&layout=compact&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupongomez&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupongomez&theme=radical" />
+</p>
 
