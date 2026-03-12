@@ -11,8 +11,8 @@
 - 🧠 Always learning new technologies
 - 🎯 Focused on building fast and scalable web apps
 
-<p align="center">
 ## 🛠 Tech Stack
+<p align="center">
 
 | Frontend | Backend | Database |
 |----------|---------|----------|
