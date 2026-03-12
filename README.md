@@ -11,7 +11,7 @@
 - 🧠 Always learning new technologies
 - 🎯 Focused on building fast and scalable web apps
 
-
+<p align="center">
 ## 🛠 Tech Stack
 
 | Frontend | Backend | Database |
@@ -22,7 +22,7 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | | |
-
+</p>
 
 ## 📫 Contact Me
 
