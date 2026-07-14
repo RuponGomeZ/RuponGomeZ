@@ -1,3 +1,6 @@
+<img width="2048" height="512" alt="Gemini_Generated_Image_5uu5lj5uu5lj5uu5" src="https://github.com/user-attachments/assets/2868ae24-023b-466e-8b2f-8233763ee835" />
+
+
 # Hi, I'm Rupon Anthony Gomez 👋
 
 💻 Full-Stack Web Developer (MERN, Next.js & TypeScript)
