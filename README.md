@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase,git,github,vscode,postman" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -45,7 +45,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
   ...
+</p> -->
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,git,github,vscode,postman" />
+</p>
+
 
 ## 📫 Contact Me
 
