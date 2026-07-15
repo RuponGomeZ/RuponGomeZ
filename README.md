@@ -1,4 +1,5 @@
-<img width="2048" height="512" alt="Gemini_Generated_Image_5uu5lj5uu5lj5uu5" src="https://github.com/user-attachments/assets/2868ae24-023b-466e-8b2f-8233763ee835" />
+<img width="2048" height="512" alt="Github banner" src="https://github.com/user-attachments/assets/2ec0202e-26e1-48d5-a7e7-eb6a58929d56" />
+
 
 
 # Hi, I'm Rupon Anthony Gomez 👋
