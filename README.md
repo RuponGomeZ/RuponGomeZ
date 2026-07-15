@@ -14,6 +14,7 @@
 * 🧠 Currently learning advanced backend development with Prisma & PostgreSQL
 * 🛠 Building REST APIs with Express.js, Prisma ORM, MongoDB, and PostgreSQL (Neon)
 * 🎯 Focused on writing clean, scalable, and maintainable code
+* 📚 I’m currently enhancing my skills in TypeScript, PostgreSQL, Prisma ORM, and Next.js.
 
 ## 🛠 Tech Stack
 
