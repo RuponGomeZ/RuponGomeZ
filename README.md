@@ -33,6 +33,8 @@
 
 
 
+## 🛠 Tech Stack
+
 ### 🎨 Frontend
 
 <p align="left">
@@ -49,7 +51,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="50"/>
 </p>
 
 ### 🗄️ Database & ORM
@@ -57,20 +59,20 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma ORM" alt="Prisma ORM" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/neontech/neontech-icon.svg" title="Neon" alt="Neon" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" alt="Prisma ORM" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/beekeeper-studio/beekeeper-studio/master/apps/studio/public/icon.png" title="Beekeeper Studio" alt="Beekeeper Studio" width="50" height="50"/>
 </p>
 
 ### 🧰 Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" title="Postman" alt="Postman" width="50" height="50"/>
 </p>
+
+> **Also familiar with:** Neon (Serverless PostgreSQL) • Beekeeper Studio
 
 
 
