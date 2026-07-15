@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<!-- <p align="center">
 
 | Frontend                                                                                                                  | Backend                                                                                                             | Database & ORM                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -29,6 +29,12 @@
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)                      |                                                                                                                     | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)       |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)                |                                                                                                                     |                                                                                                                     |
 
+ </p> -->
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase,git,github,vscode,postman" />
 </p>
 
 ## 📫 Contact Me
