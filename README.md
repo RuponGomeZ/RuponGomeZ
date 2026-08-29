@@ -71,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" title="Postman" alt="Postman" width="50" height="50"/>
+ <img src="https://cdn.simpleicons.org/redis/DC382D" title="Redis" alt="Redis" width="50" height="50"/>
 </p>
 
 > **Also familiar with:** Neon (Serverless PostgreSQL) • Beekeeper Studio
